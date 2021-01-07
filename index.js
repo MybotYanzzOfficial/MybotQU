@@ -8,9 +8,9 @@
 * SCRIPIT INI DIRECODE OLEH FADHIL ID.
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '🔰_MyBot_🔰'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/nur.fdhl_'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'wa.me/6283102650464'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '🔰_YanzzMyBot_🔰'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/zxuan54'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'wa.me/6281803522862'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung Owner'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://bit.ly/3aCaSjI'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'https://bit.ly/3aNfHH5'; // JANGAN UBAH-UBAH INFO!!!
