@@ -16,9 +16,9 @@ exports.donate = (id, A187, tampilTanggal, tampilWaktu, instagram, nomer, aktif,
 ║ *DONASI KE ${A187}*
 ╠════════════════════
 ║╭──❉ *DONASI YUK* ❉────
-║│➸ *SAWERIA*: _https://saweria.co/Fadhilgraphy_
-║│➸ *PULSA*: _+62 831-0265-0464_
-║│➸ *KUOTA*: _AXIS/SMART_
+║│➸ *DANA*: _081803522862_
+║│➸ *PULSA*: _+6281803522862_
+║│➸ *KUOTA*: _XL AXIATA_
 ║╰───────────────────
 ╠════════════════════
 ║  *${A187}*
@@ -34,7 +34,7 @@ exports.donate = (id, A187, tampilTanggal, tampilWaktu, instagram, nomer, aktif,
 ║│ _${nomer}_
 ║╰───────────────────
 ╠════════════════════
-║ _*POWERED BY FADHIL ID*_
+║ _*POWERED BY Yanzz Official*_
 ╚════════════════════`
 }
 
