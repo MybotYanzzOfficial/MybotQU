@@ -22,9 +22,9 @@ exports.info = (id, A187, tampilTanggal, tampilWaktu, instagram, nomer, aktif, g
 ║  *NODE.JS*
 ╠════════════════════
 ║╭──❉ *INFO* ❉─────────
-║│➸ *AUTHOR*: _Fadhil Graphy_
-║│➸ *DESIGNER*: _Fadhil Graphy_
-║│➸ *YOUTUBE*: _Fadhil Graphy_
+║│➸ *AUTHOR*: _Yanzz Official_
+║│➸ *DESIGNER*: _Yanzz Official_
+║│➸ *YOUTUBE*: _Yanzz Official_
 ║╰───────────────────
 ╠════════════════════
 ║  *${A187}*
@@ -40,6 +40,6 @@ exports.info = (id, A187, tampilTanggal, tampilWaktu, instagram, nomer, aktif, g
 ║│ _${nomer}_
 ║╰───────────────────
 ╠════════════════════
-║ _*POWERED BY FADHIL ID*_
+║ _*POWERED BY Yanzz Official*_
 ╚════════════════════`
 }
