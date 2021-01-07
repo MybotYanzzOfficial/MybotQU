@@ -154,6 +154,6 @@ Bot On: ${aktif}
 ║         ${A187}
 ║
 ╠════════════════════✿
-║ _*POWERED BY FADHIL ID*_
+║ _*POWERED BY Yanzz Official*_
 ╚════════════════════✿`
 }
