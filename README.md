@@ -56,7 +56,7 @@ Script ini di modifikasi sama saya sendiri FADHIL ID.
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/FdhlGraphy/mybotv2
+> git clone https://github.com/MybotYanzzOfficial/MybotQu
 > cd mybotv2
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr done tinggal jalanin aja dah
@@ -104,14 +104,14 @@ Script ini di modifikasi sama saya sendiri FADHIL ID.
 Ket: Aktiv tergantung owner
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🔰_MyBot_🔰`](+62 831-0265-0464)
+* [`Donasi 🔰_MyBot_🔰`](+6281803522862)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/)
-* [`Instagram Admin`](https://instagram.com/nur.fdhl_)
-* [`WhatsApp Admin `](https://wa.me/6283102650464)
+* [`Instagram Admin`](https://instagram.com/zxuan54)
+* [`WhatsApp Admin `](https://wa.me/6281803522862)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
